@@ -1,4 +1,4 @@
-![logo](https://github.com/zohaib521321/zohaib521321/blob/main/cover.png)
+![logo](https://github.com/zohaib521321/zohaib521321/blob/main/linkdinBanner.png)
 # 👋 Hello!
 
 Welcome to my GitHub profile! I am currently working in an onsite job 🏢 and actively looking to collaborate on project-based opportunities, full-time positions, or any exciting roles that match my skills. 🚀
